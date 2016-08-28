@@ -1,0 +1,10 @@
+Situacion Actual 
+
+- Un almacen, que por medio de archivos en formato excel hacen pedidos de productos que venden. Cada cliente envia el pedido con los productos, precio,y cuando llega"y datos que se peudan agregar" al encarga@ de la administración de esta información por medio de correo electronico. Se tiene que hacer una comparacion de todos los pedidos con cifras reales que estan en existencia para saber todos esos datos que se requieran. Existe una base de datos que contiene ya todos los datos que se necesitan usar en el desarrollo o que son requeridos por el cliente en este caso(LOs campos tablas y todo). 
+
+
+Propuesta Computacional
+
+-Crear un carrito de compras donde se muestren los productos y puedan hacer los pedidos las sucursales. Un usuario administrador para que pueda dar de alta y baja a los usuario como hacer reportes. 
+
+
